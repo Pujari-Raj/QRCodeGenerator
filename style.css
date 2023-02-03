@@ -37,16 +37,8 @@ body{
 
 }
 img{
-    margin-top: 40px;
+    margin-top: 100px;
     margin-left: 35%;
     display: none;
 }
 
-.qrimg {
-    display: block;
-    border-radius: 1rem;
-    /* background-color: $qr-code; */
-    width: fit-content;
-    margin:  0 auto;
-    margin-top: -100px;
-}
